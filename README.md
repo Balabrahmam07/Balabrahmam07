@@ -4,14 +4,14 @@
 
 I am an engineering graduate passionate about architecting highly performant web architectures, optimized backend applications, and intelligent systems. I specialize in building real-world automation tools and integrating advanced AI capabilities.
 
-- 🧠 **Focus Fields:** Core Backend Engineering, Web Systems, and Distributed AI.
+- 🧠 **Focus Fields:** Core Backend Engineering, Web Systems, LLMs, and RAG architectures.
 - 🤖 **Current Deep Dive:** Designing autonomous multi-agent systems and Agentic AI workflows.
 - ⚡ **Philosophy:** Constantly learning, iterating, and scaling technology to solve complex business problems.
 
 ---
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-balabrahmam) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Balabrahmam07) [![Mail](https://img.shields.io/badge/Email-balabrahmam13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balabrahmam13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-balabrahmam) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Balabrahmam07) [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com) [![Mail](https://img.shields.io/badge/Email-balabrahmam13@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:balabrahmam13@gmail.com)
 
 ---
 
